@@ -4,18 +4,19 @@ Welcome to my GitHub profile!
 I’m a graduate student in Information Technology & Management (ITM) at University of Texas at Dallas with a strong focus on Data Science,Cloud Technologies, Product and Project Management. I enjoy building data-driven solutions that bridge business and technology.
 
 🔗Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/gurman-kaur-chahal) • [Portfolio](#) • [Resume](#)
+[LinkedIn](https://www.linkedin.com/in/gurman-kaur-chahal) • [Portfolio](#) • [Resume](https://drive.google.com/file/d/1iTP41geyu61CKTeQAYR-ExamPGKY9eGi/view?usp=drive_link)
 
 ---
 
 ## 🎓 Education
 
 **The University of Texas at Dallas**  
-Master of Science in Information Technology & Management (Business Intelligence Track)  
-Relevant Coursework: Advanced Statistics, Data Science, Business Analytics, Cloud Computing
+Master of Science in Information Technology & Management  
+Relevant Coursework: Python in Data Science, Cloud Computing, Casual Analytics and AB testing
 
-**Bachelor of Commerce (B.Com)**  
-Focus: Finance, Analytics, Business Systems
+**Thapar Institute of Engineering and Technology** 
+Bachelors of Science in Electrical Engineering (electives in computers)
+Relevant Coursework: Data Structures and Algorithm, Database Management
 
 ---
 
@@ -25,19 +26,14 @@ Focus: Finance, Analytics, Business Systems
 - Built and deployed machine learning models for risk classification and financial analysis  
 - Worked with real-world banking datasets to derive actionable insights  
 
-**Business Development Intern**  
+**Business Development Intern | MeritHub Technologies**  
 - Supported data-driven decision-making and market analysis initiatives  
 
 ---
 
 ## 🔬 Projects
 
-### 🚀 Risk Factor Analysis Project
-- Designed end-to-end Hive and Pig workflows for large-scale driver risk assessment  
-- Created normalized tables using Hive DDL and LATERAL VIEW  
-- Computed driver risk scores based on event frequency and mileage  
-
-### 📊 Investment Guide Web App
+### 📊 Investimate 
 - Django-based platform with an AI chatbot for beginner investors  
 - Integrated a Random Forest risk classification model (Low / Medium / High)  
 - Personalized recommendations based on user risk profile  
@@ -57,15 +53,16 @@ Focus: Finance, Analytics, Business Systems
 ## 🌱 Interests
 - Data Science & Analytics  
 - Cloud Computing  
-- Financial Risk Modeling  
-- Business Intelligence  
+- Product Management 
+- Business Intelligence
+- Project Management
 
 ---
 
 ## 📫 Let’s Connect!
 
-I’m always open to collaboration, learning opportunities, and meaningful discussions around data, technology, and business.  
-Feel free to explore my repositories or reach out on LinkedIn!
+I’m always open to collaboration, learning opportunities and meaningful discussions around technology, and business.  
+Feel free to reach out on LinkedIn!
 
 
 
