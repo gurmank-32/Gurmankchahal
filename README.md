@@ -77,10 +77,23 @@ accurate risk assessment
 
 ---
 
+## 🏆 Extracurriculars 
+- **Leadership**
+  - Dean's Council Member
+  - Events Officer in Project Management Club
+  - Content Officer in Product Base Club
+  - Marketing Head in Virsa
+  
+- **Volunteer**
+  - Volunteered in ICP Passport to the world event
+  - AI Day
+  - FinTexas Event
+
+- **Honours**
+  - UT Dallas Naveen Jindal School of Management Program Excellence Scholarship  
+
+---
 ## 📫 Let’s Connect!
 
 I’m always open to collaboration, learning opportunities and meaningful discussions around technology, and business.  
 Feel free to reach out on LinkedIn!
-
-
-
